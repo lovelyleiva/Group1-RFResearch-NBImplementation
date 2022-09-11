@@ -1,4 +1,4 @@
-***Welcome to Group #1's Module 8 Machine Learning Project Repository!***
+***Welcome to Group #1's Module 9 Machine Learning Project Repository!***
 
  **Group #1 Members**  
   Beth Vander Hoek, Dennis Kelly, Kylee LaPierre, Stephanie Leiva
